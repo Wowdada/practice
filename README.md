@@ -1,3 +1,3 @@
 # practice
 깃허브 실습
-print('test1')
+print('test123')
